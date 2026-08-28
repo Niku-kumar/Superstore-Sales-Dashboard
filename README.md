@@ -54,11 +54,11 @@ It also includes a 15-day sales forecast to analyze expected future sales trends
 
 ### Sales Dashboard
 
-Screenshot 2.png
+![Sales Dashboard](Screenshot%201.png)
 
 ### Sales Forecast
 
-Screenshot 1.png
+![Sales Dashboard](Screenshot%202.png)
 
 ## 👨‍💻 Author
 
