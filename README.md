@@ -54,19 +54,12 @@ It also includes a 15-day sales forecast to analyze expected future sales trends
 
 ### Sales Dashboard
 
-![Sales Dashboard](Screenshots/sales-dashboard.png)
+Screenshot 2.png
 
 ### Sales Forecast
 
-![Sales Forecast](Screenshots/sales-forecast.png)
-
-## 📁 Project Files
-
-- `.pbix` - Power BI dashboard
-- `.xlsx` - Dataset
-- `.png` - Dashboard screenshots
-- `.pdf` - Project documentation
+Screenshot 1.png
 
 ## 👨‍💻 Author
 
-Your Name
+Niku Kumar Yadav
